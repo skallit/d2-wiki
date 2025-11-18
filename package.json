@@ -1,12 +1,13 @@
 {
-  "name": "my-app",
+  "name": "d2-wiki",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "biome check",
+    "format": "biome format --write"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",

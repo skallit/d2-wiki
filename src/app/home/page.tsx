@@ -1,3 +1,5 @@
+import { Home } from "./views/home";
+
 export default function HomePage() {
-  return <h1>My home Page</h1>;
+  return <Home></Home>;
 }

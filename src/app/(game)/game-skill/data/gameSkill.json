@@ -1,0 +1,16 @@
+{
+  "skill1": {
+    "id": 1,
+    "name": "firestorm",
+    "description": "unleash fiery chaos to burn your enemies",
+    "baseManaCost": 4,
+    "classId": 1
+  },
+  "skill2": {
+    "id": 2,
+    "name": "Artic Blast",
+    "description": "Blast a continous jet of ice to burn your enemies with frost",
+    "baseManaCost": 3,
+    "classId": 1
+  }
+}

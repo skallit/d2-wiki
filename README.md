@@ -5,8 +5,8 @@ Pour lancer le projet prérequis:
 
 Cmd a faire:
 
-npm i
+- npm i
 
 Lancer le projet:
 
-npm run dev
+- npm run dev

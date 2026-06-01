@@ -15,8 +15,8 @@ export function Header() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="game-class">
-                  Class
+                <a className="nav-link" href="game-classe">
+                  Classe
                 </a>
               </li>
               <li className="nav-item">

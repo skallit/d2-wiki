@@ -7,17 +7,16 @@ import {
   Container,
   Row,
 } from "react-bootstrap";
+import { Classes } from "../entity/classeEntity";
 
-import { Class } from "../entity/classEntity";
-
-type ClassCardProps = {
-  classes: Class[];
+type ClasseCardProps = {
+  classes: Classes[];
 };
 
-export function ClassCard({ classes }: ClassCardProps) {
+export function ClasseCard({ classes }: ClasseCardProps) {
   return (
     <Container>
-      <h1>Class test</h1>
+      <h1>Classe test</h1>
 
       <Row>
         {classes.map((item) => (

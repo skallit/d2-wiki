@@ -1,4 +1,4 @@
-export type Class = {
+export type Classes = {
   id: number;
   name: string;
   image: string;
